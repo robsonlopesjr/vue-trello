@@ -32,6 +32,10 @@
     👍 Projeto inspirado no vídeo [https://www.youtube.com/watch?v=YmJzRpMFdDY&t=2333s] do Fábio de Abreu.
 </p>
 
+<p align="center">
+  <img alt="Home" title="#Home" src="https://user-images.githubusercontent.com/77983152/107226772-4a583500-69f9-11eb-87b5-63924a994f4f.png" width="200px">
+</p>
+
 ---
 
 ## ⚙️ Funcionalidades
