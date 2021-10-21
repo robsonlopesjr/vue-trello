@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img alt="Home" title="#Home" src="https://user-images.githubusercontent.com/77983152/107226772-4a583500-69f9-11eb-87b5-63924a994f4f.png" width="200px">
+  <img alt="Home" title="#Home" src="https://github.com/robsonlopesjr/vue-trello/blob/master/assets/print.png?raw=true" width="200px">
 </p>
 
 ---
