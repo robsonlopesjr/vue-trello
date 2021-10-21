@@ -2,8 +2,24 @@
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=vue&message=language&color=green&style=for-the-badge&logo=VUE"/>
-    <img src="http://img.shields.io/static/v1?label=STATUS&message=CONTRUCAO&color=red&style=for-the-badge"/>
+    <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=green&style=for-the-badge"/>
 </p>
+
+---
+
+### 📖 Tópicos
+
+:small_blue_diamond: [Descrição do projeto](#-descrição-do-projeto)
+
+:small_blue_diamond: [Funcionalidades](#-funcionalidades)
+
+:small_blue_diamond: [Pré-requisitos](#-pré-requisitos)
+
+:small_blue_diamond: [Como execultar a aplicação](#-como-execultar-a-aplicação)
+
+:small_blue_diamond: [Linguagens, dependencias e libs utilizadas](#-linguagens-dependencias-e-libs-utilizadas)
+
+:small_blue_diamond: [Autor](#-autor)
 
 ---
 
@@ -18,18 +34,37 @@
 
 ---
 
+## ⚙️ Funcionalidades
+
+:heavy_check_mark: drag n' drop.
+
+---
+
 ## 🎯 Pré-requisitos
 
 :warning: [Vue](https://vuejs.org/) 2.x
 
 ---
 
-## 📌 Comandos
+## ▶️ Como execultar a aplicação
 
-### Iniciar o projeto
+### No terminal, clone o projeto:
+```
+git clone https://github.com/robsonlopesjr/vue-trello
+```
+
+### Depois inicie o projeto
 ```
 npm run serve
 ```
+
+---
+
+## 🛠 Linguagens, dependencias e libs utilizadas
+
+:warning: [Vue](https://vuejs.org/)
+
+:warning: [vue-smooth-dnd](https://kutlugsahin.github.io/vue-smooth-dnd/#/cards)
 
 ---
 
